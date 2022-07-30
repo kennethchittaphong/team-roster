@@ -18,5 +18,13 @@ a {
 }
 
 body {
-  background-color: #88effd;
+  background-color: antiquewhite;
+}
+
+.searchContainer{
+  justify-content: center;
+  margin: 10px;
+}
+.searchBar{
+  width: 25%;
 }
